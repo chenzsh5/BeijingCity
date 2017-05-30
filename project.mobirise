@@ -1,0 +1,831 @@
+{
+  "settings": {
+    "name": "NewSite-05-30_1552",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {}
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 51,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2",
+          "_params": {
+            "hamburgerColor": "#c8eeec",
+            "sticky": true,
+            "transparent": false,
+            "color": "#d8d4d1",
+            "collapsed": true,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": "50",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">北京古建筑的命运</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"#top\">主页</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"index.html#content5-5\">几经风雨</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"index.html#buttons1-w\">旧城古建</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"index.html#header3-q\">真正的保护</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"index.html#content5-x\">图片故事</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"index.html#header3-1e\">结语</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#c8eeec"
+            },
+            ".nav-link": {
+              "font-size": "24px",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
+            },
+            ".navbar-brand": {
+              "font-size": "18px"
+            }
+          }
+        },
+        {
+          "_inherit": "header1",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-3",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/-2000x773.jpg",
+            "bgColor": "#fff8e0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fad1c7",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "title": "北京古建筑的命运<br><br>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a> ",
+          "_styles": {
+            "H1": {
+              "color": "#000000",
+              "font-size": "60px"
+            }
+          }
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-5",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/2-2000x1332.jpg",
+            "bgColor": "#d5f4f0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.7,
+            "overlayColor": "#dddddd",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "几经风雨",
+          "caption": "<p><b>| 破坏和冲击</b></p><p><b>北京是世界著名古都， 文物古迹十分丰富，可以说是一座保有古都风貌的现代化大城市。然而与清末民初时期相比，北京现存的古建筑数量已远远不及。这一方面是因为解放前的种种战乱和动荡，而另一方面，在新中国成立后，北京古城也经历过几次大的冲击和破坏，致使旧城老建筑不断减少，城市肌理遭到了较为严重的毁坏。</b></p>",
+          "_styles": {
+            "P": {
+              "color": "#fbfbfb",
+              "font-size": "22px"
+            }
+          }
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-w",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.google.com/maps/d/viewer?mid=1F-c-HqwDB2zGyeaK1XGpH5tlhUs&amp;ll=39.91244031319582%2C116.39177514999994&amp;z=12\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span><br>老北京内城古建筑地图<br>点击查看<br></a>",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-l",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#dddddd",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/1-1400x1681.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "旧城古建",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>今天我们所说的北京旧城区是指明清时期的北京内城，也就是二环路以内，包含东城区和西城区。作为两朝都城，北京旧城的文物古建自然不在少数。</p><p><br></p><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "_styles": {
+            ".lead UL": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-m",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#d8d4d1",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/1-1400x917.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>北京旧城区的三百余处文物古建可以被划分为十个类别，其中“坛庙、寺观类”和“名人故居或重要院落类”古建筑数量最多。</p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-n",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#bfc7d6",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/2-1400x1128.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>在开放情况上，旧城区中只有22.3%的古建筑可以购票或免费参观，其余的大部分古建筑不能随意参观。</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-q",
+          "title": "真正的保护",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "上世纪八十年代起，北京文物古建保护进入一个新的阶段。1982年国务院公布北京成为首批中国国家历史文化名城，九十年代，北京启动危旧房改造，大规模修缮一直持续到今天。然而在这个过程中，一些富有历史价值的老建筑没有逃过拆毁的命运，而一些与周围环境不符的新建筑拔地而起，破坏了旧城作为一个有机整体的韵味——这些被称之为“保护性破坏”。被拆除的永定门复建了，梁思成、林徽因的故居也已经完成了“易地保护”，数不清的庙堂府邸正在被粉饰一新，而这中间有多少才是真正的保护？",
+          "_styles": {
+            "SMALL": {
+              "font-size": "22px"
+            },
+            "H3": {
+              "font-size": "46px"
+            }
+          }
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-s",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#dddddd",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1991-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "index.html#content4-v",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "1991<div>北京历史文化名城保护规划</div>",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/2000-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "index.html#content4-v",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "2000<div>3.3亿元文物古建抢险修缮工程</div>",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/2003-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "index.html#content4-v",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "2003<div>“人文奥运”文物保护计划</div>",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/2011-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "index.html#content4-v",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "<div>2011</div><div>北京中轴线申遗文物保护工程</div>",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "_styles": {
+            "DIV": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-v",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#f2f2f2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showTitles": true,
+            "showCaptions": true
+          },
+          "title1": "1991<div>北京历史文化名城保护规划</div>",
+          "caption1": "提出保护北京历史文化名城的三个层次和一个重点。“三个层次”是文物的保护、历史文化保护区的保护、历史文化名城的保护；“一个重点”是旧城区的保护。",
+          "title2": "2000<div>3.3亿元文物古建抢险修缮工程</div>",
+          "caption2": "北京市在三年时间内投资3.3亿元对文物古建筑进行抢险修缮。修缮工程涉及28处全国重点文物保护单位和70处市级重点文物保护单位，总面积达59.2万平方米。",
+          "title3": "2003<div>“人文奥运”文物保护计划</div>",
+          "caption3": "“人文奥运”文物保护计划<br>从2003年到2008年每年投入1.2亿元，计划整治“两线”景观，恢复“五区”风貌，重现京郊“六景”，通过139项工程营造北京历史文化名城的基本格局。<br>",
+          "title4": "2011<div>北京中轴线申遗文物保护工程</div>",
+          "caption4": "列入申遗范围的中轴线包括22处遗产，总面积5143.44公顷，涵盖了60%的北京老城。首批文物修缮名单中包括大高玄殿乾元阁、北海万佛楼和阐福寺等古建筑群。"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-19",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-1400x718.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "_params": {
+            "showText": true
+          },
+          "text": ""
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-x",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#dddddd",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.7,
+            "overlayColor": "#fff",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "图片故事",
+          "caption": "<p>无论哪一个巍峨的古城楼或是一角倾颓的殿基的灵魂里，</p><p>无形中都在诉说，乃至歌唱，时间上漫不可信的变迁。</p><p>（梁思成、林徽因）</p>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-1b",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#f2f2f2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "index.html#content4-1c",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "大高玄殿·官方占用",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/2-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "index.html#content4-1c",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "粤东新馆·遭遇拆除;沦为大杂院",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/3-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "index.html#content4-1c",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "钟鼓楼·险遭<br>“奇葩”改造",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/4-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "index.html#content4-1c",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "永定门·复建",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "_styles": {
+            "H4": {
+              "text-align": "right",
+              "font-size": "22px"
+            }
+          }
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-1c",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#f2f2f2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showTitles": true,
+            "showCaptions": true
+          },
+          "title1": "",
+          "caption1": "大高玄殿是明清两代皇家道观，由于大高玄殿临街大门是三座并排的门，此地又俗称“三座门”。大高玄殿属于故宫的组成部分，然而新中国成立后，大高玄殿被解放军总参谋部借走用作办公用房，六十年里故宫和文物局多次索要无果。这期间，大高玄殿内又“见缝插针”地建了很多新楼，破坏了建筑格局；与此同时，大高玄殿木结构年久失修，瓦面、彩画及各种石构建损伤严重。 2013年，大高玄殿终于移交给了故宫博物院，之后便开始大规模修缮。",
+          "title2": "",
+          "caption2": "粤东新馆坐落于西城区南横西街11、13号。明末清初时，这里为怡园一角，19世纪中叶广东居京人士在此建立粤东新馆。粤东新馆之所以闻名，是因为戊戌变法时期保国会在此成立，并进行了大量活动。 1998年9月，为拓宽菜市口大街，粤东新馆的正厅及配房部分被拆除，引起文保界强烈抗议。然后，施工方在暂停拆除工作两日后，仍旧以“将在西侧异地复建”为名拆除了会馆东路的建筑。此后，所谓的“复建”也并未实施。 剩下的会馆西路则成为了一个拥挤的大杂院。直到2014年1月，粤东新馆作为“文物征收第一案”启动了腾退工作，并计划建成戊戌纪念馆。2016年5月，粤东新馆大部分已经腾退，而南侧沿街部分还有两三家商户在营业。人去楼空的粤东新馆几乎变成了一片废墟。",
+          "title3": "",
+          "caption3": "2010年，钟鼓楼文化街区的改造曾引起一阵不小的争议，而其中最为震动的是清华大学建筑学院副院长尹稚连发两条微博“动员全国规划界、建筑界”把为钟鼓楼地区提供改造方案的波士顿国际设计集团“轰出中国”。在此之前，波士顿设计在宁波、重庆等地的几处改造项目就颇受非议，而这次它打算将钟鼓楼建设成“北京时间文化城”——把钟鼓楼之间的广场做成专卖世界名表的地下商场，地面上则仿造表盘做成水面。2012年12月，随着鼓楼东南侧“北京时间博物馆”新建工程的启动，引发文保界“地震”的“时间文化城”项目正式宣告结束。",
+          "title4": "",
+          "caption4": "永定门是北京明清外城七门中最大的城门，是北京中轴线的南端起点。上世纪五十年代，为了筑路，永定门的瓮城、城楼和箭楼被相继拆除。 2004年，作为“人文奥运”文物保护计划的项目之一，永定门在原地基上重建。城楼的牌匾使用了2003年在先农坛地下发现的一块明代原配永定门石匾。 永定门是北京复建的第一个地标性建筑，之后北京启动了右安门角楼、地安门雁翅楼等更多被拆毁建筑物的复建工程。然而，古建筑的复建一直饱受争议。反对者认为新建筑再怎么复原仿古也没了历史价值，而赞成者则认为此举可以完善旧城作为一个整体的美感。 也许，复建的地标性建筑也只能成为一个地标了。"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1e",
+          "title": "结语",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "站在永定门北广场的御道上，可以笔直地看见一千多米外的正阳门。那一刻，从小生长在老北京外城之外（也就是明清时期的京郊）的我突然对这座旧城曾经的庄严雄伟有了更多的想象，也更加理解了梁思成先生为什么将它称为“都市设计的无比杰作”。<br> <br>上世纪五十年代，在规划北京新市区的时候，梁思成与陈占祥曾参照伦敦经验提出“大北京规划”——将旧城作为古迹保护起来，在西郊建立行政中心，以避免未来因为拥挤而产生的各种城市危机——然而“梁陈方案”最终未被采纳。今天，以旧城为中心的城市“大饼”越摊越大，北京在如愿成为现代化国际大都市的同时，也出现了单一中心大城市难以避免的各种问题：人口密集、住房紧张、交通拥堵、环境恶化......在这样的背景下，古建筑保护的难度可想而知。<br><br>有人说，这是一个发展的时代，也是一个破坏的时代。当通州确认将成为北京行政副中心的时候，许多人想起了梁思成先生的一句话“50年后，历史将证明你是错误的，我是对的。”绕了一个圈，北京的城市规划似乎又回到了当年的“梁陈方案”，中心城区的人口疏散有了新希望。但愿古建筑能够借此契机得到更好的保护，从文化意义上真正做到“再现古都风貌”。<br>",
+          "_styles": {
+            "SMALL": {
+              "font-size": "17px",
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+            },
+            "H3": {
+              "font-size": "46px"
+            }
+          }
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {},
+      "components": [
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#c8eeec"
+            },
+            ".nav-link": {
+              "font-size": "24px",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
+            },
+            ".navbar-brand": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "menu-h",
+          "_params": {
+            "hamburgerColor": "#c8eeec",
+            "sticky": true,
+            "transparent": false,
+            "color": "#d8d4d1",
+            "collapsed": true,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": "50",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">北京古建筑的命运</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"#top\">主页</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"index.html#content5-5\">几经风雨</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"index.html#buttons1-w\">旧城古建</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"index.html#header3-q\">真正的保护</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"index.html#content5-x\">图片故事</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"index.html#header3-1e\">结语</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-black\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-i",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-1.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ffffff",
+            "contentAlign": "right",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "Mobirise",
+          "text": "Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn More</a>"
+        }
+      ]
+    }
+  }
+}
